@@ -1,12 +1,5 @@
 # Project 2
 
-
-## Help Received
-
-Please document any help you received in completing this lab. Note that the what you submit should be your own work. Refer to the syllabus for more details. 
-
-received help from Grady and Conner.
-
 ## Describe your work
 
 
