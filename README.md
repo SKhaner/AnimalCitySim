@@ -1,5 +1,7 @@
 # Project 2
 
+To test download all files and run Plotter.jar
+
 ## Describe your work
 
 
